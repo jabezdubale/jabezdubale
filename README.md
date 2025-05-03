@@ -1,7 +1,6 @@
 # Hi there, I'm Yabetse! 👋
-<!--
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1VQKEetKj6E5FeMY63ydSXSGUIbNCPD-7/view?usp=sharing)
 
 ## About Me 🚀
 
