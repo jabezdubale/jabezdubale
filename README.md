@@ -12,3 +12,4 @@ I'm a passionate **Fullstack web developer** with experience in **HTML, CSS, Jav
           - **[Phone]: **(+251944229033)
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme -->
