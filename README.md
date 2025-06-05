@@ -1,7 +1,5 @@
 # Hi there, I'm Yabetse! 👋
 
-![Banner Image]()
-
 ## About Me 🚀
 
 I'm a passionate **Fullstack web developer** with experience in **HTML, CSS, Javascript, and Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
