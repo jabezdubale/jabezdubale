@@ -12,7 +12,6 @@ I'm a passionate **Fullstack web developer** with experience in **HTML, CSS, Jav
           - **[Email]: **Jabezdubale6@gmail.com
           - **[LinkedIn]: **(https://www.linkedin.com/in/yabetse-dubale/)
           - **[Phone]: **(+251944229033)
-  
-[![My Skills]
 
+#My Skills
 (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
