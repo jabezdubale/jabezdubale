@@ -11,5 +11,5 @@ I'm a passionate **Fullstack web developer** with experience in **HTML, CSS, Jav
           - **[LinkedIn]: **(https://www.linkedin.com/in/yabetse-dubale/)
           - **[Phone]: **(+251944229033)
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,figma)](https://skillicons.dev)
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme -->
